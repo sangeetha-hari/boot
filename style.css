@@ -1,3 +1,7 @@
 .heading{
     text-emphasis-color: orange;
 }
+
+.float-img{
+    float:left;
+}
