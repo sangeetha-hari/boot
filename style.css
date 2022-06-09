@@ -1,7 +1,38 @@
-.heading{
-    text-emphasis-color: orange;
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .float-img{
-    float:left;
+    float:right;
+}
+
+.logo{
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.thick-letter{
+    font-style: normal;
+    float: inline-end;
+    font-size: 45px;
+}
+.toleft{
+    text-align: left;
+}
+
+.sidelogo{
+    max-width: 45px
+    max-height: 50px;
+}
+
+.m-letter{
+    font-style: normal;
+    float: inline-end;
+    font-size: 20px;
+}
+
+.title-letter{
+    font-style: normal;
+    float: inline-end;
+    font-size: 75px;
 }
