@@ -34,5 +34,28 @@ body{
 .title-letter{
     font-style: normal;
     float: inline-end;
-    font-size: 75px;
+    font-size: 55px;
+}
+.sb{
+
+}
+.fb{
+
+}
+.tb{
+
+}
+
+@media (max-width:500px) {
+   .sb{
+    flex-direction: column;
+}
+.fb{
+    flex-direction: column;
+}
+.tb{
+    flex-direction: column;
+}
+
+
 }
